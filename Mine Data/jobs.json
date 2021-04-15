@@ -4,5 +4,5 @@
   {"jobid": 3, "title": "ETL Developer", "Country":"India", "State":"Maharashtra", "City":"Pune"},
   {"jobid": 4, "title": "Abinitio Developer", "Country":"India", "State":"Goa", "City":"Panjim"},
   {"jobid": 5, "title": "Angular Developer", "Country":"India", "State":"Maharashtra", "City":"Nagpur"},
-  {"jobid": 6, "title": "NodeJs Developer", "Country":"India", "State":"Maharashtra", "City":"Nashik"},
+  {"jobid": 6, "title": "NodeJs Developer", "Country":"India", "State":"Maharashtra", "City":"Nashik"}
 ]
